@@ -55,9 +55,7 @@ If you prefer to install manually:
 - **Deep Combat System** - Turn-based strategy with ability management
 - **Progression Systems** - Leveling, talents, equipment, and customization
 - **Reaction Abilities** - Interrupt enemy attacks with perfect timing
-- **Cross-Platform** - Desktop and web versions
 
-For more details, visit the [main repository](https://github.com/FishB0nes98/RAID---Project-Fighters).
 
 ---
 
