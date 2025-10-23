@@ -84,7 +84,7 @@ function initDownloadButtons() {
     const modalClose = document.getElementById('modal-close');
 
     // IMPORTANT: Update this URL with your actual download link
-    const DOWNLOAD_URL = 'YOUR_DOWNLOAD_URL_HERE'; // Replace with actual URL
+    const DOWNLOAD_URL = 'https://github.com/FishB0nes98/Project-Fighters-RAID/releases/download/v1.0.0/Project.Fighters.Launcher-win32-x64.rar'; // Replace with actual URL
 
     downloadBtn.addEventListener('click', () => {
         handleDownload();
