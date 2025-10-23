@@ -22,7 +22,6 @@ The easiest way to play Project Fighters: RAID:
 
 1. **Download the Launcher**
    - Get `Project Fighters Launcher.exe` from the [latest release](https://github.com/FishB0nes98/Project-Fighters-RAID/releases)
-   - Or download from the [main repository](https://github.com/FishB0nes98/RAID---Project-Fighters)
 
 2. **Run the Launcher**
    - Open `Project Fighters Launcher.exe`
