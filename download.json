@@ -1,0 +1,16 @@
+{
+  "version": "0.9.0",
+  "gameDownloadUrl": "https://mega.nz/file/2gIWTBCa#w3eoDRSfApHtsj8yOO-MGvQCmRLQ_IZPlcj384lI9Qc",
+  "alternativeUrls": [],
+  "fileSize": "6484416542",
+  "fileSizeReadable": "6.04 GB",
+  "checksumSHA256": "",
+  "releaseNotes": "https://github.com/FishB0nes98/RAID---Project-Fighters/releases/tag/v0.9.0",
+  "changelog": [
+    "New character: Infernal Ibuki (Secret Unlock)",
+    "Balance changes - see full release notes",
+    "Performance improvements and bug fixes",
+    "New abilities and character updates",
+    "PvP improvements"
+  ]
+}
